@@ -1,4 +1,4 @@
-# BLINKIT-DASHBOARD
+# Blinkit-Sales-Analysis
 
 ## 📌 Business Requirement
 
